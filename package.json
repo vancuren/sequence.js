@@ -1,0 +1,27 @@
+{
+  "name": "sequence.js",
+  "version": "1.0.0",
+  "description": "A Javascript library for working with Arrays and Objects. Based off Laravel collections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vancuren/sequence.js.git"
+  },
+  "keywords": [
+    "Array",
+    "Helpers",
+    "Javascript",
+    "Node",
+    "Collections",
+    "Laravel"
+  ],
+  "author": "Russell Van Curen <russell@vancuren.net>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vancuren/sequence.js/issues"
+  },
+  "homepage": "https://github.com/vancuren/sequence.js#readme"
+}
